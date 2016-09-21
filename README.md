@@ -1,7 +1,7 @@
 # terremotocentroitalia-android
 Una semplice applicazione Android per fornire un accesso rapido alla versione Mobile di [terremotocentroitalia.info](https://terremotocentroitalia.info).
 
-### [Google Play Store]()
+### [Google Play Store](https://play.google.com/store/apps/details?id=eh.terremotocentroitalia)
 
 
 In breve, l'app è una webview che punta alla home page del sito, con qualche accorgimento:
@@ -15,4 +15,5 @@ Alcune note agli sviluppatori Android:
 - Attualmente compilata con SDK <code> API level 14 - Android 4.0 (IceCreamSandwich)</code>. Virtualmente si dovrebbe poter tornare ancora più indietro utilizzando il componente legacy webview.
 
 
-![](http://i.imgur.com/4mDoxqn.png)
+
+<img src="http://i.imgur.com/4mDoxqn.png" width="40%">
